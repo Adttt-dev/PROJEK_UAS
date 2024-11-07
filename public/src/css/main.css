@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", serif;
+}
+
+.navbar {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.navbar .navbar-brand {
+  letter-spacing: 2px;
+  font-size: 20px;
+  color: rgb(0, 137, 39);
+}
+
+.navbar .navbar-brand span {
+  color: #fcaf15;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar .navbar-nav a {
+  letter-spacing: 2px;
+  color: black;
+  font-size: 15px;
+}
+
+/* layanan */
+#layanan {
+  background-color: #e7e7e7;
+}
+#layanan .card .card-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#layanan .card-text {
+  font-size: 14px;
+  color: rgb(98, 98, 98);
+}
+
+#layanan .card a.btn {
+  width: 100px;
+  font-size: 14px;
+}
+
+/* footer */
+.main-footer-menu {
+  background-color: #e7e7e7;
+}
+.main-footer-menu h3 {
+  color: rgb(0, 0, 0);
+  margin-bottom: 15px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.main-footer-menu .main-logo-footer {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  color: rgb(0, 137, 39);
+}
+
+.main-footer-menu .main-logo-footer span {
+  color: #fcaf15;
+}
+
+.main-footer-menu a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.main-footer-menu a:hover {
+  color: #ffbb00;
+}
+
+.main-footer-menu ul {
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.main-footer-menu ul li {
+  margin-bottom: 15px;
+}
+
+.main-footer-copy {
+  color: black;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
